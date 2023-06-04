@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Robison Property Management
-image: /img/front.webp
+image: /img/background-1.jpg
 heading: "#2"
-subheading: A
+subheading: Helping Real Estate Investors Win in north San Deigo
 mainpitch:
   title: "#1"
   description: "  "
