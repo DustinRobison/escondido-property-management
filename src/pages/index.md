@@ -2,12 +2,12 @@
 templateKey: index-page
 title: Robison Property Management
 image: /img/background-1.jpg
-heading: "#2"
+heading: Property Management is about Relationships
 subheading: Helping Real Estate Investors Win in north San Deigo
 mainpitch:
-  title: "#1"
+  title: Property Management is about Skill
   description: "  "
-description: B
+description: dsag
 intro:
   blurbs:
     - image: /img/coffee.png
